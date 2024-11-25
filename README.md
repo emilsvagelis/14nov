@@ -1,4 +1,4 @@
-# Dace Tomsone - galvenais virsraksts
+# Emīls Vagelis - galvenais virsraksts
 ## Otrais virsraksts
 - Saraksts 1
 - Saraksts 2
